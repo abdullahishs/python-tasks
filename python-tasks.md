@@ -1,4 +1,4 @@
-#Python exercises
+# Python exercises
 
 1. Write a Python program to find those numbers which are both divisible by 7 and 5, between 1500 and 2700 (both included).
 
