@@ -7,5 +7,5 @@ To practice running the scripts, you first need to ensure that you have python i
 To run any of the scripts, just move into the directory where the files are stored e.g. `cd /home/user/python-tasks/solutions/python-tasks/` then execute the following command `python3 <file-name>.py`
 
 Here are the questions for you to try:
-[1. Python tasks](python-tasks.md)
-[2. Python-Linux tasks](python-linux-tasks.md)
+1. [Python tasks](python-tasks.md)
+2. [Python-Linux tasks](python-linux-tasks.md)
